@@ -47,7 +47,7 @@ Mise en place d'un serveur central pour gérer :
 | Serveur | Rôle | IP | Sous-réseau | Gateway |
 |---------|------|-------|-------------|---------|
 | ubuntuserver | DC + DNS + SAN (Multi-rôle) | 192.168.10.193 | 255.255.255.128 | 192.168.10.129 |
-| srv2 | Serveur Web (Nginx + PHP + MySQL) | 192.168.10.194 | 255.255.255.128 | 192.168.10.129 |
+| srv2 | Serveur Web | 192.168.10.194 | 255.255.255.128 | 192.168.10.129 |
 
 #### Schéma d'Infrastructure
 
