@@ -1,5 +1,5 @@
 # 📋 Projet Infrastructure ESNlearn
-
+![Logo GitHub](https://cdn.discordapp.com/attachments/1440985155299971093/1441446109275885689/image.png?ex=6921d2cd&is=6920814d&hm=5707fb3e5808caa9a2e16804dbf9ace6a9ff9bd70fb920f82d6bd2c34f688db0)
 ## 🎯 Contexte du Projet
 
 Vous êtes consultant dans une **SSII (Société de Services en Ingénierie Informatique)** et vous êtes dépêché chez le client **"ESNlearn"**.
